@@ -1,0 +1,44 @@
+
+body {
+ background-image: url("fondo.jpg");
+}
+
+	ul li{
+    display: inline-block;
+    padding: 0px 20px;
+	}
+
+        .imgIcon {
+		width: 200px;
+		height: auto;
+        }
+        .imagen-container {
+		display: inline-block;
+		margin: 10px;
+        }
+        .center {
+		text-align: center;
+        }
+	.imgBanner{
+		width: 1300px;
+		height: 400px;
+	}
+
+
+.Arial {
+    font-family: Arial, sans-serif;
+}
+
+.Contorno1 {
+	background-color: #EA6B68;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.Contorno2 {
+	background-color: #6EF082;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 50px;
+}
