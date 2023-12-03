@@ -20,7 +20,7 @@ function cambio4(){
 
 function cambio5(){
   var i1=document.getElementById("img3");
-  i1.src="precio1l.png";
+  i1.src="precio1L.png";
 }
 
 function cambio6(){
