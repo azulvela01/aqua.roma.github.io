@@ -1,0 +1,71 @@
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+	}
+
+a{
+	color: blue;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+}
+
+body {
+ background-image: url("Fondo.webp");
+}
+
+
+.imgIcon {
+		width: 200px;
+		height: auto;
+        }
+
+.imagen-container {
+		display: inline-block;
+		margin: 10px;
+		border: 2px solid #CCCFCD;
+
+        }
+
+.center {
+		text-align: center;
+        }
+
+.imgBanner{
+		width: 1300px;
+		height: 480px;
+	}
+
+
+.Arial {
+    font-family: Arial, sans-serif;
+}
+
+.Contorno1 {
+	background-color: #EA6B68;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.Contorno2 {
+	background-color: #6EF082;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+
+
+
+h2{
+    height: 50px;
+    border-bottom: 10px solid rgb(110, 227, 27);
+    
+}
+
+#map-container {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
